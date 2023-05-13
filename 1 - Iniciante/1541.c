@@ -14,7 +14,6 @@ int main() {
             return 0;
         }
         scanf("%d %d", &b, &c);
-        
       
         area =  a * b;
         mq = (area * 100) / c;
